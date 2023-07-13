@@ -1,0 +1,4 @@
+090204-07-0054,William Chong,012-9858290,williamchong@gmail.com,5, Lorong Gembira 3, Taman Gembira 57000 KL,Penang,Chef
+739203-02-3929,Ahmad Samad,018-2649043,ahmadsamad@hotmail.com,23, Lorong Limau 10, Taman Limau 57000 KL,Kuala Lumpur,Architect
+980924-05-2392,Tan Siew Hui,017-3964820,siewhuitan@yahoo.com,12, Lorong Manis, 9, Taman Manis 57000 KL,Johor,HR Manager
+950222-04-8432,Rajoo Muthusamy,013-5069284,rajoom@gmail.com,19, Lorong Biru, 8, Taman Biru 57000 KL,Malacca,Supervisor
